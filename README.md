@@ -6,7 +6,8 @@ Before deploying you will need to install both 'Azure CLI' and 'Terraform CLI' t
 
 Within this repo you will find:
   - Terraform [main.tf]
-  - index folder 
+  - mime.json [allows terraform to read file types]
+  - index.zip folder [contents of landing page] [unzip before deploying...]
     - index.html
     - style.css
     - index.json
